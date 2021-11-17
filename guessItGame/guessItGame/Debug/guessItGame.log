@@ -1,0 +1,6 @@
+﻿  guessItGame.c
+D:\repos\guessItGame\guessItGame\guessItGame.c(16,22): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+D:\repos\guessItGame\guessItGame\guessItGame.c(51,12): warning C4013: 'time' undefined; assuming extern returning int
+D:\repos\guessItGame\guessItGame\guessItGame.c(76,19): warning C4013: 'isalpha' undefined; assuming extern returning int
+D:\repos\guessItGame\guessItGame\guessItGame.c(87,18): warning C4018: '<': signed/unsigned mismatch
+  guessItGame.vcxproj -> D:\repos\guessItGame\Debug\guessItGame.exe
